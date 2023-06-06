@@ -1,4 +1,4 @@
-# power_bi_dashboards
+# Repo Containing the Power Bi Dashboards
 POWER-BI Dashboards
  
 • Created interactive dashboard to track and analyze online sales data
